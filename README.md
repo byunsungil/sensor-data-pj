@@ -23,7 +23,7 @@ IPC(FIFO)를 통해 프로세스 간 데이터를 전달한 뒤 MySQL(MariaDB)�
 
 ---
 
-## 🛠 사용 기술
+##  사용 기술
 - Python
 - IPC (FIFO)
 - MySQL (MariaDB)
@@ -32,7 +32,7 @@ IPC(FIFO)를 통해 프로세스 간 데이터를 전달한 뒤 MySQL(MariaDB)�
 
 ---
 
-## 🎯 프로젝트 성과
+##  프로젝트 성과
 Python, IPC(FIFO), MySQL, MQTT를 활용하여  
 실시간 센서 데이터의 **생성·전송·저장·시각화 전 과정을 직접 구현**하며  
 IoT 데이터 처리 구조에 대한 이해도를 확보했습니다.
